@@ -1,3 +1,7 @@
+import sys
+sys.path.insert(0, './utils/')
+import secret
+from tqdm import tqdm
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
@@ -9,11 +13,6 @@ from random import randint
 import random
 import pandas as pd
 from art import *
-import secret
-
-
-from tqdm import tqdm
-
 
 tprint("Instagram")
 tprint("Bot")
