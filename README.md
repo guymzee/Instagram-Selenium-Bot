@@ -40,9 +40,11 @@ After that you can proceed to edit the Script.
 
 ### Edit Script
 
-Open bot.py with any TextEditor.
+Open /utils/secret.py with any TextEditor.
 
 Change all needed values such as username and password.
+
+Also open bot.py and change the max rate limits.
 
 ## Running 🏃🏽‍♂️
 
