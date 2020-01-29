@@ -9,6 +9,7 @@ from random import randint
 import random
 import pandas as pd
 from art import *
+import secret
 
 
 from tqdm import tqdm
@@ -32,9 +33,9 @@ webdriver.get('https://www.instagram.com/accounts/login/?source=auth_switcher')
 sleep(3)
 
 username = webdriver.find_element_by_name('username')
-username.send_keys('growerslove420')
+username.send_keys(secret.username)
 password = webdriver.find_element_by_name('password')
-password.send_keys('[C}eWVYOa525|gFLiG8<-1B4Zu')
+password.send_keys(secret.password)
 
 button_login = webdriver.find_element_by_xpath(
     '/html/body/div[1]/section/main/div/article/div/div[1]/div/form/div[4]/button')
