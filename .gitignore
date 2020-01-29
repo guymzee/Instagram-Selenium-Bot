@@ -1,4 +1,5 @@
 geckodriver
 geckodriver.log
 chromedriver
-utils/*
+utils/secret.py
+utils/__pycache__
