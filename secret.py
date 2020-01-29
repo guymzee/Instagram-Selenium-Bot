@@ -1,2 +1,2 @@
 username = "your username"
-password = "your passsword"
+password = "your password"
