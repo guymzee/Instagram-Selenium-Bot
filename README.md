@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./img/logo-icon.svg" alt="alt text" width="200px">
-  # Instagram Selenium Bot √
+  <h1>Instagram Selenium Bot √</h1>
 </div>
 
 # 🔥 Version 0.1 🔥
