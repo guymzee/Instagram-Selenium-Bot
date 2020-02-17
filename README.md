@@ -1,4 +1,6 @@
-<img align="center" src="./img/logo-icon.svg" alt="alt text" width="200px">
+<div style="text-align:center">
+  <img src="./img/logo-icon.svg" alt="alt text" width="200px">
+</div>
 
 # 🔥 Version 0.1 🔥
 
