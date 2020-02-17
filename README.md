@@ -1,4 +1,4 @@
-![alt text](./img/logo-icon.svg=250x "Logo")
+![](./img/logo-icon.svg =250x)
 
 # 🔥 Version 0.1 🔥
 
