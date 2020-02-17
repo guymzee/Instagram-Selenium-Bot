@@ -1,4 +1,4 @@
-![alt text](./img/logo-icon.svg "Logo")
+![alt text](./img/logo-icon.svg =250x "Logo")
 
 # 🔥 Version 0.1 🔥
 
