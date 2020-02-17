@@ -1,4 +1,4 @@
-![](./img/logo-icon.svg =250x100)
+<img src="./img/logo-icon.svg" alt="alt text" width="200px">
 
 # 🔥 Version 0.1 🔥
 
