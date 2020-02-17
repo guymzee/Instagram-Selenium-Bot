@@ -1,4 +1,4 @@
-![](./img/logo-icon.svg =250x)
+![](./img/logo-icon.svg =250x100)
 
 # 🔥 Version 0.1 🔥
 
