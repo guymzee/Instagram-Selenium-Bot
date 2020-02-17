@@ -1,4 +1,4 @@
-<img src="./img/logo-icon.svg" alt="alt text" width="200px">
+<center><img src="./img/logo-icon.svg" alt="alt text" width="200px"></center>
 
 # 🔥 Version 0.1 🔥
 
