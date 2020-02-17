@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
   <img src="./img/logo-icon.svg" alt="alt text" width="200px">
 </div>
 
