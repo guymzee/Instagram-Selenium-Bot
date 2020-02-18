@@ -3,3 +3,4 @@ geckodriver.log
 chromedriver
 utils/secret.py
 utils/__pycache__
+img/*
